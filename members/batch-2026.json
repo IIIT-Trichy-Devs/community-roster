@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Community Lead",
+    "department": "CSE",
+    "batch": "2026",
+    "github": "https://github.com/IIIT-Trichy-Devs",
+    "interests": [
+      "Open Source",
+      "Git & GitHub Mentorship",
+      "Full-Stack Web"
+    ]
+  },
+  {
+    "name": "Sample Student",
+    "department": "ECE",
+    "batch": "2026",
+    "github": "https://github.com/iiitt-student",
+    "interests": [
+      "Embedded Systems",
+      "Git Architecture",
+      "Robotics"
+    ]
+  }
+]
